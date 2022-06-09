@@ -8,4 +8,4 @@ gunicorn
 scipy
 scikit - learn
 matplotlib
-pickle
+
