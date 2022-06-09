@@ -1,11 +1,9 @@
-flask
-pandas
-numpy
 Flask
-jinja2
-werkzeug
 gunicorn
+Jinja2
+Werkzeug
+numpy
+pandas
 scipy
-scikit - learn
+scikit-learn
 matplotlib
-
